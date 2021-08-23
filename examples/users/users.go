@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	guac "github.com/techBeck03/guacamole-api-client"
-	"github.com/techBeck03/guacamole-api-client/types"
+	guac "github.com/desotech-it/guacamole-api-client"
+	"github.com/desotech-it/guacamole-api-client/types"
 )
 
 func main() {

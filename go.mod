@@ -1,3 +1,3 @@
-module github.com/techBeck03/guacamole-api-client
+module github.com/desotech-it/guacamole-api-client
 
 go 1.15
